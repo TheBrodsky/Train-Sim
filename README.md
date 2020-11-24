@@ -7,5 +7,14 @@ This was an assignment for a simulation class I took in Fall 2020. The simulatio
 ### What's With The Two Versions?
 There are two versions of the sim, the latter being better. The second sim was created with the simpy library and is process-based. The first sim is much more of my own code and is not process-based.
 
+The first version contains the following files: 
+ - train.py
+ - data_structures.py
+ - sim_setup.py
+ 
+The second version contains the following files:
+ - train2.py
+ - process_classes.py
+
 ### Why Am I Uploading It Now?
 I'm uploading previous coding projects that show how I code and how my coding style has changed over the years.
